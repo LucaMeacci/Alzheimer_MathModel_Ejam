@@ -1,5 +1,7 @@
 # Alzheimer_MathModel_Ejam
 
+<img src="https://github.com/LucaMeacci/Alzheimer_MathModel_Ejam/edit/master/SRSani_time35.png" width="300">
+
 The repository contains the codes used to simulate the mathematical model presented in the work:
 
 Michiel Bertsch, Bruno Franchi, Luca Meacci, Mario Primicerio, and Maria Carla Tesi
