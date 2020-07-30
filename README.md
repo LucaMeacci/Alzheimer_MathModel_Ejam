@@ -1,9 +1,11 @@
 # Alzheimer_MathModel_Ejam
 
-The repository contains the codes used to simulate the mathematical model presented in the work
+The repository contains the codes used to simulate the mathematical model presented in the work:
 
 Michiel Bertsch, Bruno Franchi, Luca Meacci, Mario Primicerio, and Maria Carla Tesi
+
 The amyloid cascade hypothesis and Alzheimer's disease: a mathematical model
+
 European Journal of Applied Mathematics, 2020
 
 ## How to use
